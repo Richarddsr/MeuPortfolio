@@ -1,0 +1,61 @@
+body {
+    background: linear-gradient(180deg, #06235f 0%, rgb(2, 39, 54) 50%, #000000 100%);
+    color: rgb(255, 255, 255);
+    
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(144, 235, 235);
+    padding-inline-start: 5%;
+    
+}
+
+button {
+   color: rgb(4, 99, 99);
+   border: 1px solid rgb(12, 46, 46);
+   padding: 1px;
+   right: 50px;
+}
+
+h1 {
+    padding: 40px;
+}
+
+strong {
+    color: rgb(5, 170, 170);
+}
+
+h3 {
+    font-weight: bold;
+}
+
+span {
+    color: aqua;
+    border: 1px solid #22D4FD;
+    padding: 1px;
+}
+
+a {
+    color: rgb(116, 153, 185);
+}
+
+img {
+    float: right;
+    filter: brightness(80%);
+    
+}
+
+footer {
+    padding-top: 50px;
+
+}
+
+li {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+p {
+    margin-top: 260px;
+    padding: 10px;
+}
